@@ -1,11 +1,20 @@
-𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: To analyze food delivery operations data and evaluate business performance by tracking key metrics such as total orders, delivery time, cancellations, and customer behavior using 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 and 𝗗𝗔𝗫, and to generate insights that improve operational efficiency and customer satisfaction.
+📊 Bank Loan Analysis
 
-𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 ▶ Data Cleaning ▶ Data Modeling ▶ DAX Calculations ▶ KPI Indicators ▶ Dashboard Design ▶ Data Visualization ▶ Time-Based Analysis ▶ Drill-through Features
+𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲:
+To analyze bank loan data and evaluate lending performance by tracking key metrics such as loan applications, funded amount, repayments, interest rates, and borrower risk using Power BI, SQL, and DAX. The project focuses on generating actionable insights to support financial decision-making and portfolio risk assessment.
 
-𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
-• Analyzed food delivery data to monitor total orders, delivery performance, and cancellation rates using interactive dashboards.
-• Created KPI metrics using 𝗗𝗔𝗫 to track revenue, delivery time, and repeat customer behavior.
-• Visualized restaurant performance and customer ordering trends to identify peak demand periods.
-• Built dynamic dashboards with filters and drill-through functionality to support operational decision-making.
-• Strengthened skills in 𝗱𝗮𝘁𝗮 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻, 𝗗𝗔𝗫 calculations, and dashboard development in Power BI. 💡📈
+𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀:
+Data Cleaning ▶ Data Transformation ▶ Data Modeling ▶ DAX Calculations ▶ KPI Development ▶ Dashboard Design ▶ Data Visualization ▶ Time Intelligence Functions ▶ Interactive Filters ▶ Drill-through Features ▶ Financial Data Analysis
 
+𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘀:
+• Developed an interactive Bank Loan Analysis Dashboard to monitor 38K+ loan applications, funded amounts, repayments, interest rates, and borrower financial health.
+
+• Created advanced DAX measures and KPI indicators for MTD, PMTD, and MoM analysis to track loan applications, funded amounts, repayment performance, interest rate trends, and debt-to-income (DTI) metrics.
+
+• Performed Good Loan vs Bad Loan segmentation analysis to identify high-risk loans, evaluate portfolio quality, and improve lending risk assessment.
+
+• Visualized regional lending trends, loan purposes, employment length, and home ownership patterns using dynamic charts, filled maps, donut charts, treemaps, and detailed grid reports.
+
+• Built multi-page interactive dashboards with slicers, filters, and drill-through functionality, enabling detailed loan analysis and data-driven financial decision-making. 💡📈
+
+#PowerBI #SQL #DAX #DataAnalytics #BusinessIntelligence #FinancialAnalytics #Dashboard #DataVisualization #BankLoanAnalysis #DataAnalyst
